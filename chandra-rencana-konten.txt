@@ -1,3 +1,4 @@
 rencana konten chandra
 - membuat video vlog harian
 - cari ide video  js
+- publish video
